@@ -1,0 +1,10 @@
+Still under development for other boards, pieces, colors or tkinter for displaying the game board. 
+Haven't yet tried other sites or links from chess.com The soft most probably can solve puzzles. 
+It can also play vs other people but this is sort of cheating. Have also a big database from 
+chessbase 11 game that I could try to integrate. Most of the commands from main program are quite 
+new to me, the ones moving the mouse or detecting the board, but I understood how it works.  
+Also FEN display of the chessboard is shown in PyCharm terminal. For best view, open the website and 
+PyCharm on half of screen both. Still not sure if I will use the Stockfish engine to adapt it on other 
+sites or playing with itself, or I will only do a presentation of best games in history with undo 
+button, play and fast forward. I have to fix some bugs also as it doesn't start from move 1 if he is 
+with white. You have to make the first move and then leave him to play. 
